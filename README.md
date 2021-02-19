@@ -3,3 +3,4 @@
 ### LW1
 - [lw1_1](https://github.com/AkshachRd/comb-math/tree/master/lw1_1)
 - [lw1_2](https://github.com/AkshachRd/comb-math/tree/master/lw1_2)
+- [lw1_6](https://github.com/AkshachRd/comb-math/tree/master/lw1_6)
